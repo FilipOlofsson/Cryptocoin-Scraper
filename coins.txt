@@ -1,0 +1,4 @@
+ripple
+bitcoin
+litecoin
+ethereum
